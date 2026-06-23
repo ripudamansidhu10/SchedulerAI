@@ -1,18 +1,35 @@
-# SchedulerAI Feature Plan
+# SchedulerAI Feature Roadmap
 
-## Phase 1
-- Client meeting scheduler
-- Staff dashboard
-- AI message generator
-- Forms/checklists page
+## Phase 1: MVP
 
-## Phase 2
+- Admin dashboard
+- Add and view clients
+- Book meetings
+- Generate client messages
+- Track requested documents
+- Show firm forms and checklists
+
+## Phase 2: Client Portal
+
+- Client login
+- Secure document upload
+- Form submission
+- File status tracking
+- Appointment request page
+
+## Phase 3: Integrations
+
 - Google Calendar sync
-- Email/SMS reminders
-- Secure client login
-- Upload document storage
+- Gmail/SendGrid email reminders
+- Twilio SMS/WhatsApp reminders
+- Cloud storage for files
+- OpenAI-powered assistant
 
-## Phase 3
-- AI chatbot for client FAQs
-- CRA/tax checklist automation
-- Admin analytics
+## Phase 4: Accounting Firm Automation
+
+- Personal tax checklist automation
+- Corporate year-end reminders
+- GST/HST return reminders
+- Payroll onboarding forms
+- CRA document request tracker
+- Client file queue status
